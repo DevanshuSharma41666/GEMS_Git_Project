@@ -2,3 +2,5 @@ New change request for CR1
 
 Stash kinda stuff
 
+Change to verify normal push from local master to remote master
+
