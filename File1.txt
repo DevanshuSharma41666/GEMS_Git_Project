@@ -2,6 +2,9 @@ This is my first version of project.
 
 Hello World!
 
-Change: to fix bug1
+Change: to fix bug1.
 
 Change: by team for WI2 on master.
+
+Change: to fix bug2.
+
