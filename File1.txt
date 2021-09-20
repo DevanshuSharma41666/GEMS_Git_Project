@@ -2,12 +2,16 @@ This is my first version of project.
 
 Hello World!
 
-Change 1: to fix bug1.
 
-Change 2: by team for WI2 on master.
+Change 1:- to fix bug1.
 
-Change 3: to fix bug2.
+Change 2:- by team for WI2 on master.
 
-Change 4: by teammate for WI3 to check rebase.
+Change 3:- to fix bug2.
 
-Change 5: for CR2 on remote master by team, with conflict.
+Change 4:- by teammate for WI3 to check rebase.
+
+Change 5:- for CR2 on remote master by team, with conflict.
+
+Change 6:- for bug3 on local master to verify rebase.
+
